@@ -5,3 +5,6 @@ for i in range(1,10):
 
 vet = np.ones(9)
 print (vet)
+
+vet = np.zeros(9)
+print (vet)
